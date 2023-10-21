@@ -1,15 +1,12 @@
 import React from 'react'
 import {Routes,Route} from 'react-router-dom';
+import MapContainer from './MapContainer';
 
 const App = () => {
   return (
-    <Routes>
-      {/* <Route path=' ' element={} />
-      <Route path=' ' element={} />
-      <Route path=' ' element={} />
-      <Route path=' ' element={} />
-      <Route path=' ' element={} /> */}
-    </Routes>
+    <div className="App">
+      <MapContainer />
+    </div>
   )
 }
 
