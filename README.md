@@ -1,8 +1,8 @@
 Fall Hacks 2023
-
-Gurmukh Kharod      301383004                  gsk13@sfu.ca
+-----------------------------------------------------------------------------------------------------------------------------------------
+Gurmukh Kharod      301383004                  gsk13@sfu.ca  
 Iqbal Mathamu       Non-SFU Student            Iqbalsmatharu@hotmail.com
-
+------------------------------------------------------------------------------------------------------------------------------------------
 1. Project description, how does it tie in to the theme?
 
 This project shows all nearby universities to the users current location, and is displayed using the Google Maps API on a Google Maps Display.
