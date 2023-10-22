@@ -109,7 +109,9 @@ NOTE: If the nearby universities and facilities dont show up immediately, please
 
    Link to Google Maps API: https://developers.google.com/maps
 
-6. Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end)
+6. Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end):
+
+https://github.com/GurmukhSKharod/Fall-Hacks-2023
 
 
 
