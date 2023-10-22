@@ -1,6 +1,7 @@
 
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 import { GoogleMap, LoadScript } from '@react-google-maps/api';
+
 
 const MapContainer = () => {
   const [universities, setUniversities] = useState([]);
