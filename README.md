@@ -87,6 +87,8 @@ This link is given in the form: "http://localhost:____/", where the "____" is re
 
 This should immediately go the users current location, after the user clicks allow in the top left, and then list markers with nearby universities and facilities.
 
+NOTE: If the nearby universities and facilities dont show up immediately, please try running the frontend again, as it seems to sometimes be slower on the first run.
+
 
 
 4. Participant names and contact information have been given above.
