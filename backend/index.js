@@ -1,10 +1,11 @@
 import express from "express";
 import { PORT, mongoDBURL } from "./config.js";
 import mongoose from "mongoose"; 
+import cors from 'cors';
 
 const app = express();
 
-
+app.use(cors());
 
 app.get('/', (request, response) => {
     console.log(request);
@@ -22,3 +23,4 @@ mongoose
     .catch((error) => {
         console.log(error);
     });
+    
