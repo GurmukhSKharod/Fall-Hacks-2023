@@ -1,6 +1,6 @@
 # Google Maps - Universities Near You Application
 
-## 1. Project description, how does it tie in to the theme?
+## 1. Project description
 
 This project shows all nearby universities to the users current location, and is displayed using the Google Maps API on a Google Maps Display.
 
