@@ -83,12 +83,7 @@ This should immediately go the users current location, after the user clicks all
 NOTE: If the nearby universities and facilities dont show up immediately, please try running the frontend again, as it seems to sometimes be slower on the first run.
 
 
-
-## 4. Participant names and contact information have been given above.
-
-
-
-## 5. Acknowledgments for any libraries, APIs, or resources you used in your project:
+## 4. Acknowledgments for any libraries, APIs, or resources:
    
    This project utlized Node.js, React.js, Express.js, MongoDb, Vite, Tailwind.css, Axios, React-Router-DOM.
    https://nodejs.org/en
@@ -102,9 +97,6 @@ NOTE: If the nearby universities and facilities dont show up immediately, please
 
    Link to Google Maps API: https://developers.google.com/maps
 
-## 6. Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end):
-
-https://github.com/GurmukhSKharod/Fall-Hacks-2023
 
 
 
