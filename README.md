@@ -7,25 +7,25 @@ Iqbal Mathamu       300262648            Iqbalsmatharu@hotmail.com              
 
 
 
-1. Project description, how does it tie in to the theme?
+## 1. Project description, how does it tie in to the theme?
 
 This project shows all nearby universities to the users current location, and is displayed using the Google Maps API on a Google Maps Display.
 
 This project implements the Google Maps API within A Full Stack MERN App.
 The MERN app uses MongoDb with mongoose, express.js, React.js, and Node.js.
 
-Back-End:
+### Back-End:
 Simply implements a MongoDB Database and calls mongoose.connect() to use the DB.
 Using Node.js to utlize node modules.
 Node modules are used to allow express functions such as request/respose.
 A config.js file holds all ports and URLs.
 
-Front-End:
+### Front-End:
 React was mainly used as the front end language.
 Axios was used to make HTTP requests for the Google Maps API.
 Vite and was used on the front-end to setup the app and its packages.
 
-Overview: 
+### Overview: 
 
 The application grabs the current user location if allowed to by the user, then requests that location to the Google Maps API (if the location exists).
 Secondly, it grabs all nearby universities to the user and sends individual responses to the Google Maps API with Axios.
@@ -37,9 +37,9 @@ The Website itself is very practical, an individual who maybe wanting a new chap
 
 
 
-2. File structure:
+## 2. File structure:
    
-   Backend Folder:
+   ### Backend Folder:
        models - db model
        node modules folder
        .env - stores private keys or URLs
@@ -47,7 +47,7 @@ The Website itself is very practical, an individual who maybe wanting a new chap
        index.js - calls mongoose and uses express to create routes
        package-json files
    
-   Frontend Folder:
+   ### Frontend Folder:
        node modules folder
        public folder:
           vite instance svg file
@@ -67,17 +67,17 @@ The Website itself is very practical, an individual who maybe wanting a new chap
 
 
 
-3. Order of operations outlining the steps to set up and run your project:
+## 3. Order of operations outlining the steps to set up and run your project:
 
 The application was completed in VS Code, and must run in vs code. The backend and frontend must be run seperately.
 
-To run backend:
+### To run backend:
    1. run in vs code in terminal
    2.  cd backend, if not in backend already
    3. "npm run dev" to run backend
    4. goto http://localhost:7777/ to see backend working. Should show - Fall Hacks 2023 Application backend
 
-To run frontend:
+### To run frontend:
    1. run in vs code in terminal
    2. cd frontend, if not in frontend already
    3. "npm run dev" to run frontend
@@ -91,11 +91,11 @@ NOTE: If the nearby universities and facilities dont show up immediately, please
 
 
 
-4. Participant names and contact information have been given above.
+## 4. Participant names and contact information have been given above.
 
 
 
-5. Acknowledgments for any libraries, APIs, or resources you used in your project:
+## 5. Acknowledgments for any libraries, APIs, or resources you used in your project:
    
    This project utlized Node.js, React.js, Express.js, MongoDb, Vite, Tailwind.css, Axios, React-Router-DOM.
    https://nodejs.org/en
@@ -109,7 +109,7 @@ NOTE: If the nearby universities and facilities dont show up immediately, please
 
    Link to Google Maps API: https://developers.google.com/maps
 
-6. Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end):
+## 6. Link to your GitHub project repository with your source code and video tutorial (can be added within 48 hours of FallHacks end):
 
 https://github.com/GurmukhSKharod/Fall-Hacks-2023
 
