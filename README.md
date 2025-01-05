@@ -1,7 +1,7 @@
 Fall Hacks 2023  
 -----------------------------------------------------------------------------------------------------------------------------------------  
 Participant names and contact information:    
-Gurmukh Kharod      301383004                  gsk13@sfu.ca                       SFU Applied Science  
+Gurmukh Kharod      301383004                  gsk13@sfu.ca OR gurmukhkharod@hotmail.com                       SFU Applied Science  
 Iqbal Mathamu       300262648            Iqbalsmatharu@hotmail.com                Douglas Computer Science  
 ------------------------------------------------------------------------------------------------------------------------------------------  
 
