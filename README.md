@@ -85,17 +85,17 @@ NOTE: If the nearby universities and facilities dont show up immediately, please
 
 ## 4. Acknowledgments for any libraries, APIs, or resources:
    
-   This project utlized Node.js, React.js, Express.js, MongoDb, Vite, Tailwind.css, Axios, React-Router-DOM.
-   https://nodejs.org/en
-   https://react.dev/
-   https://expressjs.com/
-   https://www.mongodb.com/
-   https://vitejs.dev/
-   https://tailwindcss.com/
-   https://axios-http.com/docs/intro
-   https://www.npmjs.com/package/react-router-dom
+   This project utlized Node.js, React.js, Express.js, MongoDb, Vite, Tailwind.css, Axios, React-Router-DOM.  
+   https://nodejs.org/en  
+   https://react.dev/  
+   https://expressjs.com/  
+   https://www.mongodb.com/  
+   https://vitejs.dev/  
+   https://tailwindcss.com/  
+   https://axios-http.com/docs/intro  
+   https://www.npmjs.com/package/react-router-dom  
 
-   Link to Google Maps API: https://developers.google.com/maps
+   Link to Google Maps API: https://developers.google.com/maps  
 
 
 
